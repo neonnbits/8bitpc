@@ -1,0 +1,5 @@
+- atoms and its structure
+- pn junction
+- current, voltage, resistance
+- ohm's law
+- 
