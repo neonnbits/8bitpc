@@ -1,5 +1,8 @@
 - atoms and its structure
-- pn junction
 - current, voltage, resistance
 - ohm's law
-- 
+- electrical components (resistors, capacitors, inductors etc.)
+- series and parallel connections
+- p-n junction
+- diode
+- transistors
