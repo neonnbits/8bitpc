@@ -1,0 +1,9 @@
+- atoms and its structure
+- current, voltage, resistance
+- ac vs dc, power and phase
+- ohm's law
+- electrical components (resistors, capacitors, inductors etc.)
+- series and parallel connections
+- p-n junction
+- diode
+- transistors
