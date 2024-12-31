@@ -17,5 +17,3 @@
 **ferromagnetic material**: it can retain magnetization even after the external magnetic field(H) is removed.
 
 **magnetic hysteresis**: the **hysteresis loop** describes the relationship between B (or M) and H for a ferromagnetic material as H is cycled.
-
-**Moving Charges and Magnetism**
